@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-image/.github/commit/0744c77082917b85b3b675f26cd28a43276bfc3a",
       "git:hexsha": "0744c77082917b85b3b675f26cd28a43276bfc3a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
