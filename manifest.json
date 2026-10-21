@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1.0",
+  "org": "scikit-image",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "0744c77082917b85b3b675f26cd28a43276bfc3a",
+      "parsed_at": "2026-10-21T19:41:24.871374+00:00",
+      "filetree": "filetree/0744c77082917b85b3b675f26cd28a43276bfc3a.nq.gz",
+      "blobs": [
+        "blob/9548b96749164599853aefb89608180fbf2197aa.nq.gz",
+        "blob/a46ae92d6be3af621898326ec6d32d78dafa5854.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
